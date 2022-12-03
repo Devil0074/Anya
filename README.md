@@ -31,7 +31,7 @@
 <p align="center">
 <a href="https://heroku.com/deploy?template=https://github.com/Pika4O4/Anya-pika-MD-v2/">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</P>
+
 </div>
 
 <p align="center">
