@@ -27,6 +27,8 @@
 ㅤ
 ### 𝗗𝗲𝗽𝗹𝗼𝘆 𝗛𝗲𝗿𝗲 !!
 
+</p>
+<p align="center">
 <a href="https://heroku.com/deploy?template=https://github.com/Pika4O4/Anya-pika-MD-v2/">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
