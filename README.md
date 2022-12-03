@@ -34,9 +34,10 @@
 </a>
 
 
+</p>
 <p align="center">
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?https://github.com/Pika4O4/Anya-pika-MD-v2/)
-ㅤ
+</a>ㅤ
 ㅤ
  
   
