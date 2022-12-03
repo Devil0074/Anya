@@ -30,8 +30,10 @@
 <a href="https://heroku.com/deploy?template=https://github.com/Pika4O4/Anya-pika-MD-v2/">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
+
+<a
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?https://github.com/Pika4O4/Anya-pika-MD-v2/)
-ㅤ
+</a>ㅤ
 ㅤ
  
   
