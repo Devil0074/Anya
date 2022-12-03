@@ -25,10 +25,11 @@
 
 ㅤ
 ㅤ
-### DEPLOY THROUGH HEROKU
+### 𝗗𝗲𝗽𝗹𝗼𝘆 𝗛𝗲𝗿𝗲 !!
 
-<a href="https://heroku.com/deploy?template=https://github.com/Pika4O4/Anya-pika-MD-v2/"><img align="center" src="./HomeScreen/AnyaPikaButtonHeroku.jpg" alt="Fork and deploy" height="65" width="230" /></a>
-</div>
+<a href="https://heroku.com/deploy?template=https://github.com/Pika4O4/Anya-pika-MD-v2/">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 ㅤ
 ㅤ
  
